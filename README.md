@@ -2,7 +2,7 @@
 
 ## Live Storybook
 
-_Add your deployed Storybook URL here._
+https://692eabfb1db921dc8ef17794-lpddkwuqyw.chromatic.com/
 
 ## Installation
 
@@ -41,6 +41,3 @@ hook while drag-and-drop is implemented using the native HTML5 drag API and a sm
 - Vite
 - Storybook
 
-## Contact
-
-Replace this section with your email.
